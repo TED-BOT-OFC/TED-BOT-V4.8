@@ -1,0 +1,12 @@
+{
+  "global": {
+    "ativo": false,
+    "tempo": 10000
+  },
+  "grupos": {
+    "120363401783863789@g.us": {
+      "ativo": false,
+      "tempo": 15000
+    }
+  }
+}

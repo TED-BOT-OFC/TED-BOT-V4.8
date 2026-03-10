@@ -1,0 +1,6 @@
+{
+  "imagem": "https://xatimg.com/image/fLbEZBwvYfvw.jpg",
+  "texto_base": "• #bingo — Mostra o painel completo do bingo com a imagem definida, o texto de anúncio e a lista atualizada de todos os números já escolhidos. É o comando principal para visualizar como está o andamento do sorteio.\n\n• #bingo set número nome — Registra um participante em um número específico. Sempre que alguém comprar um número, esse comando salva o nome da pessoa ligado àquele número. Os números podem ser ilimitados.\n\n• #bingo img link — Altera a imagem que aparece junto do bingo. Basta enviar o link direto de uma imagem, e ela será exibida sempre que alguém usar o comando principal.\n\n• #bingo texto mensagem — Define ou altera a frase de divulgação do bingo. Esse texto pode conter informações como prêmio, valor, data do sorteio ou regras.\n\n• #bingo reset — Apaga todos os participantes e números cadastrados, deixando o sistema pronto para começar um novo bingo do zero.\n\n• #bingo add — Dá permissão para outra pessoa ajudar a organizar o bingo, permitindo que ela também registre nomes, mude texto e imagem.\n\n• #bingo remove — Retira a permissão de alguém que estava autorizado, impedindo que essa pessoa continue editando o bingo.",
+  "autorizados": [],
+  "numeros": {}
+}
