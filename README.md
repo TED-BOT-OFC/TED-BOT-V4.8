@@ -33,6 +33,10 @@ cd /sdcard/Download && git clone https://github.com/TED-BOT-OFC/TED-BOT-V4.8
 ```
 **4° Comando**
 ```
+npm install --force --no-bin-links
+```
+**5° Comando**
+```
 cd /sdcard/Download/TED-BOT-V4.8 && npm start
 ```
 
